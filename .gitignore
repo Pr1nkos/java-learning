@@ -1,0 +1,26 @@
+# Build output
+target/
+build/
+out/
+.gradle/
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db

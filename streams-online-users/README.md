@@ -8,9 +8,12 @@
 
 Для использования проекта выполните следующие шаги:
 
-1. Склонируйте репозиторий:
+1. Склонируйте репозиторий и перейдите в каталог проекта:
 
-`git clone https://github.com/Pr1nkos/Stream2.git`
+```bash
+git clone https://github.com/Pr1nkos/java-learning.git
+cd java-learning/streams-online-users
+```
 
 ## Использование
 
